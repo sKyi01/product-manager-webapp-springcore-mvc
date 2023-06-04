@@ -12,7 +12,6 @@ This is a web application built using Spring framework and Oracle database to ma
 - Bootstrap
 
 ## Features
-- User authentication and authorization
 - Product listing and details
 - Create new products
 - Update existing products
