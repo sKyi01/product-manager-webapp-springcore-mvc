@@ -25,8 +25,7 @@ This is a web application built using Spring framework and Oracle database to ma
 
 ## Usage
 1. Access the application via the provided URL or localhost (depending on your deployment)
-2. Sign in using your credentials
-3. Browse, create, update, or delete products using the provided user interface
+2. Browse, create, update, or delete products using the provided user interface
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
